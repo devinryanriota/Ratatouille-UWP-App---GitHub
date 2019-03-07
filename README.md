@@ -1,5 +1,2 @@
-# Ratatouille-UWP-App---GitHub
-UWP App - Ratatouille to go along with the website http://devinryanriota.azurewebsites.net .
-
-
-My first ever UWP App !
+# ratatouille-uwp-app
+Universal Windows Platform (UWP) app to go along with the website http://devinryanriota.azurewebsites.net
